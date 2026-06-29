@@ -22,7 +22,7 @@ A simple and responsive Registration Form built using HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
-🚀 [Open Registration Form](https://pushprajkumar640-lang.github.io/Registration-Form/)
+🚀 [Open Registration Form](https://pushprajkumar640-lang.github.io/registration-form/)
 ---
 
 ## 📁 Project Structure
